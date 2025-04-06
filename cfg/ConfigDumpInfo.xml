@@ -124,8 +124,8 @@
 			<Metadata name="Catalog.Организации.Attribute.ОсновнаяВалюта" id="a22ead7b-da69-4358-9995-1a01f8ba6b6e"/>
 			<Metadata name="Catalog.Организации.Attribute.ВалютныйУчет" id="e57f3802-68d0-441d-bde8-353230b7bdc2"/>
 		</Metadata>
-		<Metadata name="Catalog.Организации.Form.ФормаЭлемента" id="9ab31115-47b7-41a1-9f3b-ecf8a853747e" configVersion="145409ccba1cb042b56ae78015cd6a5800000000"/>
-		<Metadata name="Catalog.Организации.Form.ФормаЭлемента.Form" id="9ab31115-47b7-41a1-9f3b-ecf8a853747e.0" configVersion="229489f5f71f144eadfe5ac80bea595800000000"/>
+		<Metadata name="Catalog.Организации.Form.ФормаЭлемента" id="9ab31115-47b7-41a1-9f3b-ecf8a853747e" configVersion="0b8489844e23c646bbc64519a7a5198600000000"/>
+		<Metadata name="Catalog.Организации.Form.ФормаЭлемента.Form" id="9ab31115-47b7-41a1-9f3b-ecf8a853747e.0" configVersion="c7493bd77a4f5b4f84c93a044d47c93400000000"/>
 		<Metadata name="Catalog.Организации.Help" id="8fa0d9d7-c555-441a-a39b-5720ba0b9cfa.1" configVersion="ee7f18e03476fb458fe650ae339472f100000000"/>
 		<Metadata name="Catalog.Пользователи" id="2131ff1e-77b0-48d2-81e6-f2703f27a16e" configVersion="129368cbacfaa343a41bd0b31e02b10d00000000">
 			<Metadata name="Catalog.Пользователи.Attribute.ИдентификаторПользователяИБ" id="8db2a971-47d5-4186-ac05-730b25ca7222"/>
