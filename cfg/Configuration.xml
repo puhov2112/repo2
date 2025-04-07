@@ -404,6 +404,7 @@
 			<CommonModule>УведомленияКлиент</CommonModule>
 			<CommonModule>УведомленияСервер</CommonModule>
 			<CommonModule>ВходящийЗапросПоделитьсяКлиент</CommonModule>
+			<CommonModule>ОбщегоНазначения</CommonModule>
 			<ExchangePlan>Мобильные</ExchangePlan>
 			<XDTOPackage>ОбменСМобильнымУстройством</XDTOPackage>
 			<WebService>MAExchange</WebService>
@@ -511,6 +512,7 @@
 			<Catalog>ХранилищеВариантовОтчетов</Catalog>
 			<Catalog>Встречи</Catalog>
 			<Catalog>ДоговорыКонтрагентов</Catalog>
+			<Catalog>ЕдиницыИзмерения</Catalog>
 			<Document>Заказ</Document>
 			<Document>ОперацияПоУчетуТоваров</Document>
 			<Document>Оплата</Document>
